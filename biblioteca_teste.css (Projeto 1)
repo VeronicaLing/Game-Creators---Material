@@ -1,3 +1,6 @@
+* { 
+    margin: 0;
+}
 .head {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -9,7 +12,7 @@
 
 .body {
     width: 80%;
-    max-width: 1800px;
+    max-width: 1900px;
     min-height: 800px;
     margin: 0 auto;
     padding: 20px;
@@ -62,5 +65,4 @@
     color: #ffffff;
     margin-top: 85px;
     padding: 15px;
-
 }
